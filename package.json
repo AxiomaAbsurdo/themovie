@@ -1,0 +1,26 @@
+{
+  "name": "themovie",
+  "version": "1.0.0",
+  "description": "A simple movie database website #js #exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxiomaAbsurdo/themovie.git"
+  },
+  "author": "mmortara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxiomaAbsurdo/themovie/issues"
+  },
+  "homepage": "https://github.com/AxiomaAbsurdo/themovie#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

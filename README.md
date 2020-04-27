@@ -1,2 +1,2 @@
 # themovie
-a simple movie database website #js #exercise
+### A simple movie database website #js #exercise
